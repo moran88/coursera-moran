@@ -81,7 +81,7 @@ p {
 
 	}
 	.col-md-12 {
-		
+		float: left;
 		width: 100%;
 	}
 	
