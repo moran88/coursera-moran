@@ -73,14 +73,14 @@ p {
 		width: 33%;
 		padding: 15px;
 	}
-
+}
 @media (min-width: 768px) and (max-width: 991px){
 	.col-md-6 {
 		float: left;
 		width: 50%;
 
 	}
-
+}
 	.col-md-12 {
 		float: left;
 		width: 100%;
