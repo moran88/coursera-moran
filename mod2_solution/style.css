@@ -80,13 +80,12 @@ p {
 		width: 50%;
 
 	}
-}
 	.col-md-12 {
 		
 		width: 100%;
 	}
 	
-
+}
 @media (max-width: 767px){
 	.col-sm-12 {
 		float: left;
