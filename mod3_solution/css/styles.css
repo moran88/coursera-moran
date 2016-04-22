@@ -36,9 +36,15 @@
 	margin-right:20px;
 	background-color: grey;
 	height: 1000px;
-	width: 98%;
 }
 
 #main-content p {
 	padding-top:10px;
+}
+
+@media (max-width: 767px) {
+	col-xs-12{
+		width:100%
+	}
+	
 }
