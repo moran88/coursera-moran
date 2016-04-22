@@ -26,3 +26,8 @@
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
+
+#main-content {
+	background-color: white;
+	height: 1000px;
+}
